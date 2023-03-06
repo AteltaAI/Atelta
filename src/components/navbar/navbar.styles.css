@@ -1,0 +1,29 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 4rem;
+}
+
+.nav-ele {
+    margin: 0 2rem;
+}
+
+.nav-ele a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-right {
+    display: flex;
+}
+
+.logo {
+    color: white;
+    text-decoration: none;
+}
+
+.logo p {
+  font-style: italic;
+  font-size: 1.2rem;
+}
